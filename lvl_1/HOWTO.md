@@ -107,7 +107,7 @@ Expect ~10⁵ states for the minimal config, minutes for D=1/U=2/P=4/N=4.
 
 ## Results for TLC Toolbox verification
 
-![alt text](telegram-cloud-photo-size-2-5424874150091756754-y.jpg)
+![alt text](ver_result.jpg)
 
 ## Running with Apalache
 
